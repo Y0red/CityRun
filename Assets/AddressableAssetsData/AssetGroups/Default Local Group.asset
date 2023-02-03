@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 72caa74ee953cc44c987b70bd55a4216
+  m_SerializeEntries:
+  - m_GUID: 288fae10b19d35443acb3357db74072d
+    m_Address: Assets/MY_Assets/PlatformGenerator/Gen/Prifabs/BROAD_FORWARD.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0d98a2447460857479b38a67fbac1ce7
+    m_Address: Assets/MY_Assets/PlatformGenerator/Gen/Prifabs/BROAD_RIGHT.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8b0a130f374e31242a7946747e7c3b82
+    m_Address: Assets/MY_Assets/PlatformGenerator/Gen/Prifabs/ROAD_LEFT_UP.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5c0cd8e963a9ca64e9e542f657711ef8
+    m_Address: Assets/MY_Assets/PlatformGenerator/Gen/Prifabs/BROAD_RIGHT_FORWARD.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5553411fae522e841bb6c31474c65f60
+    m_Address: Assets/MY_Assets/PlatformGenerator/Gen/Prifabs/BROAD_LEFT.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b940dc97d7db2484389d0755384ae379
+    m_Address: Assets/MY_Assets/PlatformGenerator/Gen/Prifabs/ROAD_RIGHT_UP.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: acfbae3829c43d44ea08f91f76c04109
+    m_Address: Assets/MY_Assets/PlatformGenerator/Gen/Prifabs/BROAD_LEFT_FORWARD.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 48f2dbac996ea0e4e921f45ec1c96de7, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 32a63c3c252eba746a1ef717b3d85b5e, type: 2}
+    - {fileID: 11400000, guid: 080919a88373acf4e9ce022a4405584b, type: 2}
